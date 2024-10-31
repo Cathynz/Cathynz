@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cathynz
 - 👀 I’m interested in film producing
-- 🌱 I’m currently learning unreal 5
-- 💞️ I’m looking to collaborate on 3d animation
+- 🌱 I’m currently learning 3D python
+- 💞️ I’m looking to collaborate on VR,AR projects for safety training
 - 📫 How to reach me 
 
 <!---
